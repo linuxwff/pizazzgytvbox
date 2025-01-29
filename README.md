@@ -2,9 +2,9 @@
 
 在线来源订阅地址：
 
-https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+https://mirror.ghproxy.com/raw.githubusercontent.com/linuxwff/pizazzgytvbox/main/api.json
 
-https://mirror.ghproxy.com/raw.githubusercontent.com/ufwsss/pizazzgytvbox/main/api.xml
+https://mirror.ghproxy.com/raw.githubusercontent.com/linuxwff/pizazzgytvbox/main/api.xml
 
 阿里云盘资源使用方法：二〇二四/主页→云盘登录→使用阿里云盘app扫描二维码
 
